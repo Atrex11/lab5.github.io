@@ -1,0 +1,44 @@
+
+/* Style sheet
+   color picker www.w3schools.com/colors/colors_picker.asp
+*/
+
+/* Bootstrap default font-family is Helvetica Neue */
+h1 {
+  font-family: "Arial Black", Gadget, sans-serif;
+  
+}
+.bg{
+	top:0;
+	color:;
+	background-color: #3F729B;
+	border:1px solid #3F729B;
+}
+#nav{
+	background-color: #ff8a65;
+	border:1px solid #3F729B;
+}
+.navco{
+	color:#26c6da;
+}
+.logo{
+	max-width:100%; 
+    height:70px;
+    border-radius: 3px; 
+    border: 1px solid Black;
+}
+body{
+	background-color: #ffe0b2;
+}
+#serviceList{
+	background-color: #3F729B;
+	border:1px solid #3F729B;
+}
+h3{
+	 font-family: "Arial Black", Gadget, sans-serif;
+	 color:black;
+}
+.info{
+		background-color: #2BBBAD;
+
+}
