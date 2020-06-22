@@ -39,6 +39,12 @@ h3{
 	 color:black;
 }
 .info{
-		background-color: #2BBBAD;
-
+		color:black;
+		font-family: "Courier New", Courier, monospace;
+		font-size: 20px;
 }
+.icon{
+	max-width:100%; 
+    height:33px;
+}
+
